@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\c-shapr\firsthomework\bin\Debug\net6.0\firsthomework.exe
+C:\Users\PC\Desktop\c-shapr\firsthomework\bin\Debug\net6.0\firsthomework.deps.json
+C:\Users\PC\Desktop\c-shapr\firsthomework\bin\Debug\net6.0\firsthomework.runtimeconfig.json
+C:\Users\PC\Desktop\c-shapr\firsthomework\bin\Debug\net6.0\firsthomework.dll
+C:\Users\PC\Desktop\c-shapr\firsthomework\bin\Debug\net6.0\firsthomework.pdb
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.AssemblyInfo.cs
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.dll
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\refint\firsthomework.dll
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.pdb
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\firsthomework.genruntimeconfig.cache
+C:\Users\PC\Desktop\c-shapr\firsthomework\obj\Debug\net6.0\ref\firsthomework.dll

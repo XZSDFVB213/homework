@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\secondhome-work\bin\Debug\net6.0\secondhome-work.exe
+C:\Users\PC\Desktop\secondhome-work\bin\Debug\net6.0\secondhome-work.deps.json
+C:\Users\PC\Desktop\secondhome-work\bin\Debug\net6.0\secondhome-work.runtimeconfig.json
+C:\Users\PC\Desktop\secondhome-work\bin\Debug\net6.0\secondhome-work.dll
+C:\Users\PC\Desktop\secondhome-work\bin\Debug\net6.0\secondhome-work.pdb
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.AssemblyInfo.cs
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.dll
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\refint\secondhome-work.dll
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.pdb
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\secondhome-work.genruntimeconfig.cache
+C:\Users\PC\Desktop\secondhome-work\obj\Debug\net6.0\ref\secondhome-work.dll

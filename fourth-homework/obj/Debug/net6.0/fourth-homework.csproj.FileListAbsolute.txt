@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\fourth-homework\bin\Debug\net6.0\fourth-homework.exe
+C:\Users\PC\Desktop\fourth-homework\bin\Debug\net6.0\fourth-homework.deps.json
+C:\Users\PC\Desktop\fourth-homework\bin\Debug\net6.0\fourth-homework.runtimeconfig.json
+C:\Users\PC\Desktop\fourth-homework\bin\Debug\net6.0\fourth-homework.dll
+C:\Users\PC\Desktop\fourth-homework\bin\Debug\net6.0\fourth-homework.pdb
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.AssemblyInfo.cs
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.dll
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\refint\fourth-homework.dll
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.pdb
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\fourth-homework.genruntimeconfig.cache
+C:\Users\PC\Desktop\fourth-homework\obj\Debug\net6.0\ref\fourth-homework.dll
